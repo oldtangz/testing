@@ -1,4 +1,3 @@
-[
     {
       id: 1,
       name: "蘋果",
@@ -49,5 +48,4 @@
         "https://traicayvietflorida.com/wp-content/uploads/2021/09/mango-traicayvietflorida-scaled.jpeg",
       description:
         "芒果是一種富含維生素C和維生素A的水果，有助於促進消化和保持皮膚健康。",
-    },
-  ]
+    }
